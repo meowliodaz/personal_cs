@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "mTNk2p3DpZQX+gaLMj5mhwP2lo2gxjLfbr9qW1KyA28DXJ0ZprjpB/fsJ2FvTDG9Z4+/gYxatkebPbvZ4BpLkw==",
+  "success": true,
+  "projectFilePath": "A:\\Docs\\Code\\C#\\personal_cs\\Youtube_Looper\\Youtube_Looper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kerko\\.nuget\\packages\\anglesharp\\1.0.7\\anglesharp.1.0.7.nupkg.sha512",
+    "C:\\Users\\Kerko\\.nuget\\packages\\system.text.encoding.codepages\\8.0.0\\system.text.encoding.codepages.8.0.0.nupkg.sha512",
+    "C:\\Users\\Kerko\\.nuget\\packages\\youtubeexplode\\6.3.9\\youtubeexplode.6.3.9.nupkg.sha512"
+  ],
+  "logs": []
+}
