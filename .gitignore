@@ -1,8 +1,8 @@
 # Debug
-bin/Debug/*
+Debug
 
 # Release
-bin/Release/*
+Release
 
 # Publish
-bin/Publish/*
+Publish
